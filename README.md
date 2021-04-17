@@ -3,8 +3,8 @@
 Please refer to [my site](https://www.fedyya.net) and [twitter](https://twitter.com/akgmoegi) for futher information.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akaregi&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akaregi&count_private=true&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaregi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaregi&theme=nord" />
 </a>
